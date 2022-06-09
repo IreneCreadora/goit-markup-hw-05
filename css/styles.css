@@ -529,7 +529,7 @@ border-radius: 4px;
     line-height: 1.88;
     color: var(--secondary-text-color);
 }
-.portfolio-card-link:hover .portfolio-overlay{
+.portfolio-item:hover .portfolio-overlay{
     transform: translateY(0);
 }
 .portfolio-overlay{
